@@ -135,7 +135,7 @@ const config = {
           {to: 'blog', label: '博客', position: 'right'},
           {to: "reading", label: "阅读", position: "right"},
           {
-            href: 'https://github.com/hans-yoyo/my-website',
+            href: 'https://github.com/hans-yoyo/hans-yoyo.github.io',
             label: 'Github',
             position: 'right',
           }
