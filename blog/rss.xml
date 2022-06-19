@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Hans's Site</title>
-        <link>https://hans-yoyo.github.io/blog</link>
+        <link>https://huhan.tech/blog</link>
         <description>Hans's 博客 RSS</description>
         <lastBuildDate>Thu, 09 Jun 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -11,7 +11,7 @@
         <copyright>Copyright © 2022 Power Hans.</copyright>
         <item>
             <title><![CDATA[MySQL定时任务(Event Scheduler)]]></title>
-            <link>https://hans-yoyo.github.io/blog/mysql-event-scheduler</link>
+            <link>https://huhan.tech/blog/mysql-event-scheduler</link>
             <guid>mysql-event-scheduler</guid>
             <pubDate>Thu, 09 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[基于 MySQL 5.7，官方文档地址：]]></description>
@@ -20,7 +20,7 @@
         </item>
         <item>
             <title><![CDATA[SpringBoot配置文件加载优先级]]></title>
-            <link>https://hans-yoyo.github.io/blog/springboot-config-priority</link>
+            <link>https://huhan.tech/blog/springboot-config-priority</link>
             <guid>springboot-config-priority</guid>
             <pubDate>Sun, 08 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[在开发过程中，不知道有没有这样的经历，项目实际读取的配置信息有时候总是与预期不符，今天就来研究下 SpringBoot 读取配置文件顺序。]]></description>
@@ -31,7 +31,7 @@
         </item>
         <item>
             <title><![CDATA[记一次dump文件分析历程]]></title>
-            <link>https://hans-yoyo.github.io/blog/jvm-dump-file-analysis-experience</link>
+            <link>https://huhan.tech/blog/jvm-dump-file-analysis-experience</link>
             <guid>jvm-dump-file-analysis-experience</guid>
             <pubDate>Sat, 12 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[一、背景]]></description>
