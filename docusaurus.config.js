@@ -1,6 +1,9 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
+// 修改git user: git config --global user.name "hyman" && git config --global user.email "hyman213@163.com"
+// 发布脚本：cmd /C 'set "GIT_USER=hans-yoyo" && npm run deploy'
+
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const math = require('remark-math');
@@ -11,7 +14,7 @@ const katex = require('rehype-katex');
 const config = {
   title: 'Hans\'s Site',
   tagline: '^_^',
-  url: 'https://hans-yoyo.github.io/',
+  url: 'https://huhan.tech/',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -164,7 +167,7 @@ const config = {
             //   href: 'https://github.com/hans-yoyo/my-website',
             // }
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Hans | <a href="http://beian.miit.gov.cn/">苏ICP备2021046511号</a> | Built with Docusaurus`,
+        copyright: `Copyright © ${new Date().getFullYear()} Hans | <a href="https://beian.miit.gov.cn/">苏ICP备2021046511号</a> | Built with Docusaurus`,
       },
       prism: {
         theme: lightCodeTheme,

@@ -45,6 +45,18 @@ const sidebars = {
       items: [
         'reading/认知觉醒读书笔记'
       ]
+    },
+    {
+      type: 'category',
+      label: '随笔',
+      link: {
+        type: 'generated-index',
+        //description: '',
+        keywords: ['阅读'],
+      },
+      items: [
+        '幼儿园体验课'
+      ]
     }
   ]
 };
