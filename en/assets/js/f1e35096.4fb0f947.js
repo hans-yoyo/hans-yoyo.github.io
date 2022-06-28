@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[32],{9867:function(e){e.exports=JSON.parse('{"label":"FTP","permalink":"/en/blog/tags/ftp","allTagsPath":"/en/blog/tags","count":1}')}}]);

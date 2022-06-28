@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[713],{3457:function(e){e.exports=JSON.parse('[{"label":"MySQL","permalink":"/blog/tags/my-sql","count":1},{"label":"SpringBoot","permalink":"/blog/tags/spring-boot","count":1},{"label":"config","permalink":"/blog/tags/config","count":1},{"label":"JVM","permalink":"/blog/tags/jvm","count":1}]')}}]);

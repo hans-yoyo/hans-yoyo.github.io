@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3168],{9311:function(e){e.exports=JSON.parse('{"label":"ELK","permalink":"/en/blog/tags/elk","allTagsPath":"/en/blog/tags","count":1}')}}]);

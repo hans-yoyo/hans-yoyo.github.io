@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[548],{9546:function(e){e.exports=JSON.parse('{"label":"JVM","permalink":"/en/blog/tags/jvm","allTagsPath":"/en/blog/tags","count":1}')}}]);

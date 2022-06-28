@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1933],{868:function(e){e.exports=JSON.parse('{"label":"\u65e5\u5fd7","permalink":"/en/blog/tags/\u65e5\u5fd7","allTagsPath":"/en/blog/tags","count":1}')}}]);
