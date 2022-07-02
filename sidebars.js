@@ -18,7 +18,9 @@ const sidebars = {
   编程语言: [
     'Home',
     {
+      // doc:文档页面的链接、link:内部或外部页面链接、category:下拉菜单
       type: 'category',
+      // 侧边栏文本
       label: 'Java编程学习',
       link: {
         type: 'generated-index',
@@ -55,7 +57,8 @@ const sidebars = {
         keywords: ['阅读'],
       },
       items: [
-        '幼儿园体验课'
+        '幼儿园体验课',
+        'MacTalk直播-小盖&玉伯'
       ]
     }
   ]

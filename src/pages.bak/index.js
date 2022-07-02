@@ -1,3 +1,5 @@
+// 如果你用 slug: / 把某篇文档变成了主页，你就需要删掉 src/pages/index.js 的现有首页，否则会有两个文件映射到同一个路径!
+
 // import React from 'react';
 // import clsx from 'clsx';
 // import Link from '@docusaurus/Link';

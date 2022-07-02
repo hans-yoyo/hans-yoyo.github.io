@@ -1,7 +1,8 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
+# 作者全局声明
+hans:
+  name: Hans
+  title: Java Developer
+  url: https://github.com/hans-yoyo
   image_url: https://github.com/endiliey.png
 
 yangshun:

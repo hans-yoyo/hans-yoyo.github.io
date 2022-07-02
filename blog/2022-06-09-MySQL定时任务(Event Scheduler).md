@@ -6,6 +6,10 @@ title: MySQL定时任务(Event Scheduler)
 tags: [MySQL]
 ---
 
+主要介绍了MySQL Event Scheduler的语法，及一部分示例
+
+<!-- truncate -->
+
 基于 MySQL 5.7，官方文档地址：
 
 CREATE：[https://dev.mysql.com/doc/refman/5.7/en/create-event.html](https://dev.mysql.com/doc/refman/5.7/en/create-event.html)

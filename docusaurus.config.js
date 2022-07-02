@@ -116,7 +116,9 @@ const config = {
 
       docs: {
         sidebar: {
+          // 可隐藏侧边栏
           hideable: true,
+          // 自动折叠侧边栏类别
           autoCollapseCategories: true,
         },
       },
@@ -167,9 +169,10 @@ const config = {
             //   href: 'https://github.com/hans-yoyo/my-website',
             // }
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Hans | <a href="https://beian.miit.gov.cn/">苏ICP备2021046511号</a> | Built with Docusaurus`,
+        copyright: `Copyright © ${new Date().getFullYear()} Hans | <a href="https://beian.miit.gov.cn/">苏ICP备2021046511号</a> | Built with <a href="https://docusaurus.io/zh-CN/">Docusaurus</a>`,
       },
       prism: {
+        // theme: require('prism-react-renderer/themes/dracula'),
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
