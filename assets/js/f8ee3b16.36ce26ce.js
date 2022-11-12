@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[244],{6846:e=>{e.exports=JSON.parse('{"title":"SpringBoot","slug":"/category/springboot","permalink":"/spring/category/springboot","navigation":{"previous":{"title":"Home","permalink":"/spring/"},"next":{"title":"SpringBoot\u914d\u7f6e\u6587\u4ef6","permalink":"/spring/springboot/config"}}}')}}]);
