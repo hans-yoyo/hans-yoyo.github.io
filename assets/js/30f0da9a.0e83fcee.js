@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[7587],{3410:e=>{e.exports=JSON.parse('[{"label":"Java","permalink":"/wiki/programming-language/tags/java","count":8}]')}}]);
