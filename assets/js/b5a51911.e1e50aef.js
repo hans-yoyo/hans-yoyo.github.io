@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[3230],{1583:e=>{e.exports=JSON.parse('{"title":"Spring","slug":"/category/spring","permalink":"/docs/category/spring","navigation":{"previous":{"title":"PromQL","permalink":"/docs/devops/PromQL"},"next":{"title":"Spring\u6846\u67b6\u6982\u8ff0","permalink":"/docs/spring/basic"}}}')}}]);
