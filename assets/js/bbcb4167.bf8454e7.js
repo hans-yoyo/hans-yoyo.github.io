@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[1339],{54718:e=>{e.exports=JSON.parse('{"label":"DevOps","permalink":"/docs/tags/dev-ops","allTagsPath":"/docs/tags","count":1,"items":[{"id":"devops/PromQL","title":"PromQL","description":"PromQL","permalink":"/docs/devops/PromQL"}]}')}}]);

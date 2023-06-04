@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[6223],{40455:e=>{e.exports=JSON.parse('[{"label":"\u751f\u6d3b","permalink":"/life/tags/\u751f\u6d3b","count":1},{"label":"\u4ea4\u6d41","permalink":"/life/tags/\u4ea4\u6d41","count":1},{"label":"\u8bfb\u4e66\u7b14\u8bb0","permalink":"/life/tags/\u8bfb\u4e66\u7b14\u8bb0","count":2}]')}}]);
